@@ -1,1 +1,1 @@
-# C-_progetto_rock_paper_scissors_game
+This project is a console rock paper scissors game using C#
